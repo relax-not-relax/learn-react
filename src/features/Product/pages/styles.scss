@@ -1,0 +1,15 @@
+.leftDiv {
+  width: 250px !important;
+}
+
+.rightDiv {
+  flex: 1 1 0 !important;
+}
+
+.pagination {
+  display: flex !important;
+  flex-flow: row nowrap !important;
+  justify-content: center !important;
+  margin-top: 30px !important;
+  padding-bottom: 30px !important;
+}

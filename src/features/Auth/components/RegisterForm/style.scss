@@ -1,0 +1,23 @@
+.registerForm {
+  padding: 20px 15px 0 15px !important;
+
+  &__ava {
+    margin: 0 auto;
+    background-color: #ef5350 !important;
+  }
+
+  &__title {
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
+    text-align: center !important;
+    font-weight: 500 !important;
+  }
+
+  &__btn {
+    margin: 25px 0 10px 0 !important;
+  }
+
+  &__pg {
+    margin-bottom: 20px !important;
+  }
+}
